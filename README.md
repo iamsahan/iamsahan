@@ -10,10 +10,10 @@
 <br>
 
 <h3 align="left">My status:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsahan&show_icons=true&locale=en&layout=compact" alt="iamsahan"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsahan&show_icons=true&locale=en" alt="iamsahan"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsahan&show_icons=true&locale=en" alt="iamsahan"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsahan&show_icons=true&locale=en&layout=compact" alt="iamsahan"/></p>
 <br>
-<br>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
