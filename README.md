@@ -1,7 +1,15 @@
 <h2 align="left">Hi 👋! i am SAHAN ERANDIKA WEERAKKODY</h2>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsahan&show_icons=true&locale=en&layout=compact" alt="iamsahan" width="100px"/></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsahan&show_icons=true&locale=en" alt="iamsahan" width="100px"/></p>
+<h3 align="left">Who AM I:</h3>
+<p>
+    I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices. I love to share knowledge with the rest of the world, and that's      why I write a lot of articles, conduct courses, and make YouTube videos. Since I'm (still) a full-time Software Engineer, I also like to share my code so others can make use of         them.
+</p>
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsahan&show_icons=true&locale=en&layout=compact" alt="iamsahan" width="300px"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsahan&show_icons=true&locale=en" alt="iamsahan" width="300px"/></p>
+<br>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -33,9 +41,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
+<br>
+<br>
 
-###
-
+<h3 align="left">Connect with me:</h3>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
