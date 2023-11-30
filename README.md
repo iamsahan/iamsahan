@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! i am SAHAN ERANDIKA WEERAKKODY</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsahan&show_icons=true&locale=en&layout=compact" alt="iamsahan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsahan&show_icons=true&locale=en" alt="iamsahan" /></p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
