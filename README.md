@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! i am sahan erandika weerakkody</h2>
+<h2 align="left">Hi 👋! i am SAHAN ERANDIKA WEERAKKODY</h2>
 
 ###
 
