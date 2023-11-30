@@ -1,9 +1,9 @@
 <h2 align="left">Hi 👋! i am SAHAN ERANDIKA WEERAKKODY</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsahan&show_icons=true&locale=en&layout=compact" alt="iamsahan" width="100px"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsahan&show_icons=true&locale=en" alt="iamsahan" width="100px"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsahan&" alt="iamsahan" width="100px"/></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsahan&show_icons=true&locale=en&layout=compact" alt="iamsahan" width="100px"/></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsahan&show_icons=true&locale=en" alt="iamsahan" width="100px"/></p>
 
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
