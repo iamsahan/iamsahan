@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/tpy.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.gifer.com/tpy.gif)]
 <h1 align="center">Hi 👋, I'm Sahan Erandika Weerakkody</h1>
 <h3 align="center">A passionate fullstack developer from Srilanka</h3>
 <img align=“right” width=“400” src=“https://i.gifer.com/tpy.gif”
