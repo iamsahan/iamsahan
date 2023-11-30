@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahan Erandika Weerakkody</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsahan" alt="iamsahan" /></a> </p>
-
 - 🌱 I’m currently following **BSC(Hons) in Software Engineering**
 
 - 📫 How to reach me **weerakkodyse@gmail.com**
