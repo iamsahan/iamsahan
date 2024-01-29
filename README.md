@@ -46,13 +46,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=iamsahan&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsahan&theme=dark&hide_border=false" /> 
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsahan&show_icons=true&locale=en&theme=dark" alt="iamsahan" /></p>
+  <br>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsahan&theme=dark" alt="iamsahan" /></p>
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamsahan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamsahan&theme=dark&hide_border=false&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
