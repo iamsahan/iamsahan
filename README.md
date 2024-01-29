@@ -1,4 +1,4 @@
-<p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Alt Text" width="300px"></p>
+<p align="center"><img src="https://github.com/iamsahan/cool-gifs-github/blob/main/images/06f21a161921919.63cd7887d0a70.gif?raw=true" alt="Alt Text" width="300px"></p>
 <h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width = 30px/>  HELLO 👋, I'm Sahan Weerakkody   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width = 30px/></h1>
 <h3 align="center"> --Enthusiastic Full-stack Developer-- </h3>
 <p align="center"> As a fervent full-stack developer, I am deeply passionate about navigating the ever-evolving landscape of technology. With a strong foundation in both front-end and back-end development </p>
