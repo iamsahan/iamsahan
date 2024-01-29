@@ -25,7 +25,7 @@
 <a href="https://stackoverflow.com/users/21332301/iamsahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Sahan Erandika Weerakkody" height="50" width="50" /></a>
 <a href="https://facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sahan Erandika Weerakkody" height="50" width="50" /></a>
 <a href="https://www.instagram.com" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Sahan Erandika Weerakkody" height="50" width="50" /></a>
-<a href="https://https://discord.com/users/1081609684194168996" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Sahan Erandika Weerakkody" height="50" width="50" /></a>  
+<a href="https://discord.com/users/1081609684194168996" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Sahan Erandika Weerakkody" height="50" width="50" /></a>  
 </p>
 
 </td>
