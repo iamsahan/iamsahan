@@ -46,13 +46,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsahan&show_icons=true&locale=en" alt="iamsahan" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsahan&show_icons=true&locale=en&theme=dark" alt="iamsahan" />
   <br>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsahan" alt="iamsahan" /></p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsahan&theme=dark" alt="iamsahan" />
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamsahan&hide_border=false&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamsahan&hide_border=false&no-frame=true&langs_count=10&theme=dark"/>
   
   </td>
 </tr>
