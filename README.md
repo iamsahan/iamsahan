@@ -46,9 +46,9 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsahan&show_icons=true&locale=en&" alt="iamsahan" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsahan&show_icons=true&locale=en" alt="iamsahan" /></p>
   <br>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsahan&" alt="iamsahan" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsahan" alt="iamsahan" /></p>
 </td>
 <td width="50%" align="center">
 
