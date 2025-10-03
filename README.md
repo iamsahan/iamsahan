@@ -12,7 +12,6 @@
 - 📩 Reach me at **weerakkodyse@gmail.com**  
 - 🌐 Visit my [Portfolio](https://iamsahan.live/)  
 
----
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -41,7 +40,26 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ReactiveX-Dark.svg" alt="c" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="c" width="50" height="50"/>
 </p>
----
+
+
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsahan&show_icons=true&locale=en&theme=dark" alt="iamsahan" />
+  <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsahan&theme=dark" alt="iamsahan" />
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamsahan&hide_border=false&no-frame=true&langs_count=10&theme=dark"/>
+  
+  </td>
+</tr>
+</table>
+
 
 <h3 align="center">🌐 Connect with Me</h3>
 
@@ -62,27 +80,6 @@
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord - iamsahan" height="40" width="40" />
 </a>
 </p>
-
----
-
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsahan&show_icons=true&locale=en&theme=dark" alt="iamsahan" />
-  <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsahan&theme=dark" alt="iamsahan" />
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamsahan&hide_border=false&no-frame=true&langs_count=10&theme=dark"/>
-  
-  </td>
-</tr>
-</table>
-
 
 
 ---
