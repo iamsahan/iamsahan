@@ -4,11 +4,7 @@
 <p align="center"> As a fervent full-stack developer, I am deeply passionate about navigating the ever-evolving landscape of technology. With a strong foundation in both front-end and back-end development </p>
 <p align="center"> <img src="https://github.com/iamsahan/cool-gifs-github/blob/main/images/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="sahan-weerakkody" /> </p>
 
-# Hi there 👋 I'm Sahan Erandika Weerakkody  
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
 
 - 🧑‍🎓 **Software Engineering Undergraduate** at [SLIIT](https://www.sliit.lk/)  
 - 🔰 Currently exploring **Flutter**  
@@ -16,9 +12,6 @@
 - 📩 Reach me at **weerakkodyse@gmail.com**  
 - 🌐 Visit my [Portfolio](https://iamsahan.live/)  
 
-</td>
-</tr>
-</table>
 
 ---
 
